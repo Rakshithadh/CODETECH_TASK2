@@ -34,6 +34,4 @@ Java SE Development Kit (JDK): Ensure that you have JDK 8 or later installed on 
 2. **Navigate to the Project Directory:** cd GradeTrackerUI
 3. **Compile and Run:** javac GradeTrackerUI.java
                         java GradeTrackerUI
-# Sanpshot
-                ![2](https://github.com/user-attachments/assets/5d0589e6-ce34-48c0-9505-8d9370f7f366)
 
