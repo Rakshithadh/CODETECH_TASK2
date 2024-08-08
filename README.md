@@ -17,7 +17,7 @@ The Grade Tracker UI is a Java Swing application designed to help users track an
         - Average Grade: The mean of all entered grades.
         - Letter Grade: A letter grade based on the average (A, B, C, D, F).
         - GPA: A numerical GPA based on the letter grade, with an A equivalent to 9.0 and an F equivalent to 0.0.
-        - Error Handling: The application provides clear error messages if the user enters invalid data, ensuring that only valid grades are processed.
+- **Error Handling:** The application provides clear error messages if the user enters invalid data, ensuring that only valid grades are processed.
 - **Customizable Background Colors:** The GUI features a blue theme with different background colors for various panels, making the interface visually appealing.
 
 # How to Use
